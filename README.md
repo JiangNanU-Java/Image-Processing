@@ -2,6 +2,8 @@
 
 ## ImagePigmentation 图像色素分割
 
+![image](ImagePigmentation/IMGP8080.JPG)
+
 根据输入的k值进行Kmeans聚类算法实现对图像的像素分类
 
 * kmeans算法使用基本数据结构实现,未调用kmeans算法库
@@ -23,6 +25,8 @@
 * 图像开闭运算
 
 ## ImageTargetExtraction 图像目标提取
+
+![image](ImageTargetExtraction/001.png)
 
 静态图像目标提取 ：识别有缺陷的药片
 
